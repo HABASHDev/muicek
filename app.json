@@ -60,7 +60,7 @@
             "value": "dlwrml"
         },
         "ALIVE_NAME": {
-            "description": "fill with your telegram account nickname/name",
+            "description": "ايضا اسم حسابك في التلي",
             "required": true,
             "value": "Levina"
         }
