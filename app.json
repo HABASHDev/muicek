@@ -37,25 +37,25 @@
             "required": true
         },
         "SESSION_NAME": {
-            "description": "fill with the pyrogram String Session",
+            "description": "كود سيشن بايرو ",
             "required": true
         },
         "SUDO_USERS": {
-            "description": "list of user ids to be added to sudo member list, or just fill with your id",
+            "description": "يوزرك في التلي بدون @",
             "required": true
         },
         "GROUP_SUPPORT": {
-            "description": "if you have group, then fill the group username here without @",
+            "description": "يوزر مجموعتك او قناتك بدون @",
             "required": true,
             "value": "VeezSupportGroup"
         },
         "UPDATES_CHANNEL": {
-            "description": "if you have channel, then fill the channel username here without @",
+            "description": "يوزر مجموعه التحديثات بدون @",
             "required": true,
             "value": "levinachannel"
         },
         "OWNER_NAME": {
-            "description": "fill with your telegram account username without @",
+            "description": "اسم حسابك في التلي",
             "required": true,
             "value": "dlwrml"
         },
