@@ -13,23 +13,23 @@
     "success_url": "https://t.me/dlwrml",
     "env": {
         "API_ID": {
-            "description": "your API_ID from my.telegram.org",
+            "description": "ايبي ايدي احصل عليه من my.telegram.org",
             "required": true
         },
         "API_HASH": {
-            "description": "your API_HASH from my.telegram.org",
+            "description": "ايبي هاش احصل عليه من my.telegram.org",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "your bot token from @BotFather",
+            "description": "توكن بوت احصل عليه من @BotFather",
             "required": true
         },
         "BOT_USERNAME": {
-            "description": "your bot username from @BotFather",
+            "description": "يوزر البوت احصل عليه من @BotFather",
             "required": true
         },
         "BOT_NAME": {
-            "description": "fill with your bot name from @BotFather",
+            "description": "اسم البوت احصل عليه من @BotFather",
             "required": true
         },
         "ASSISTANT_NAME": {
